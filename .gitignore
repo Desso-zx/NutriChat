@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment files (contain no real secrets here, but never commit anyway)
+.env
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+Graduation_Project_L2.pdf
+export/
